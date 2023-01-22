@@ -271,17 +271,11 @@
 			{
 				"arcInfo": [
 					{
-						"type": "adult",
-						"position": {
-							
-						}
+						"type": "adult"
+					},
 
-					}
 					{
-						"type": "adult",
-						"position": {
-
-						}
+						"type": "adult"
 					}
 					
 				],
