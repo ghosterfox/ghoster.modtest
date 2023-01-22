@@ -321,6 +321,10 @@
 		]
 	},
 	"ReferenceFrame": {},
-	"ShipLog": {},
+	"ShipLog": {
+
+		"xmlFile": "planets/testshiplog.xml"
+
+	},
 	"ShockEffect": {}
 }

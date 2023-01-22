@@ -1,0 +1,22 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+
+<ID>gamer</ID>
+
+<Entry>
+
+    <ID>GAMER_ENTRY</ID>
+    <Name>Gamer Planet</Name>
+    <Curiosity>GAMER_ENTRY</Curiosity>
+    <IsCuriosity/>
+
+    <ExploreFact>
+
+        <ID>GAMER_EXPLORE</ID>
+        <Name>Gamer Explore</ID>
+        <Text>I'M RETARDED!!!!</Text>
+
+    </ExploreFact>
+
+</Entry>
+
+</AstroObjectEntry>
