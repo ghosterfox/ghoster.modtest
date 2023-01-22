@@ -35,9 +35,9 @@
 			{
 				"path": "TgimberHearth_Body/Sector_TH/Sector_RadioTower/RadioTower_DLC/Interactibles_RadioTower/Hornfels'GrovePivot/Prefab_HEA_Campfire",
 				"position": {
-					"x": 177.748047,
+					"x": 177.748428,
 					"y": -108.781891,
-					"z": -59.29834
+					"z": -59.2982635
 				},
 				"rotation": {
 					"x": 358.8521,
@@ -48,9 +48,9 @@
 			{
 				"path": "QuantumMoon_Body/Sector_QugantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
 				"position": {
-					"x": 176.916016,
+					"x": 176.916046,
 					"y": -108.328857,
-					"z": -63.23535
+					"z": -63.2351761
 				},
 				"rotation": {
 					"x": 298.32428,
@@ -61,9 +61,9 @@
 			{
 				"path": "QuantumMoon_Body/Sector_QugsawgantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
 				"position": {
-					"x": 174.990234,
+					"x": 174.990189,
 					"y": -112.462296,
-					"z": -61.5668945
+					"z": -61.5671
 				},
 				"rotation": {
 					"x": 303.530457,
@@ -74,9 +74,9 @@
 			{
 				"path": "QuantumMoon_Body/Sector_QugsawgsawgantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
 				"position": {
-					"x": 175.244141,
+					"x": 175.244232,
 					"y": -113.660019,
-					"z": -56.9448242
+					"z": -56.9448624
 				},
 				"rotation": {
 					"x": 301.759247,
@@ -87,9 +87,9 @@
 			{
 				"path": "QuantumMoon_Body/Sector_QugsawgsawgsagantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
 				"position": {
-					"x": 178.240234,
+					"x": 178.2403,
 					"y": -110.086548,
-					"z": -55.1181641
+					"z": -55.1179733
 				},
 				"rotation": {
 					"x": 304.397369,
@@ -100,9 +100,9 @@
 			{
 				"path": "QuantumMoon_Body/Sector_QugsawgsawgsagsaaaaadsgsantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
 				"position": {
-					"x": 179.206055,
+					"x": 179.205856,
 					"y": -104.877106,
-					"z": -60.984375
+					"z": -60.9844971
 				},
 				"rotation": {
 					"x": 327.911041,
@@ -113,35 +113,35 @@
 			{
 				"path": "QuantumMoon_Body/Sector_QugsawgsawgsagsaaaaadsgsagasantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
 				"position": {
-					"x": 181.152344,
+					"x": 181.152237,
 					"y": -103.6465,
-					"z": -57.2294922
+					"z": -57.2297134
 				},
 				"rotation": {
 					"x": 313.537842,
-					"y": 38.393425,
+					"y": 38.39343,
 					"z": 248.845825
 				}
 			},
 			{
 				"path": "QuantumMoon_Body/Sector_QugsawgsawgsagsaaaaadsgsagasgantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
 				"position": {
-					"x": 181.585938,
+					"x": 181.585831,
 					"y": -104.789871,
-					"z": -54.5375977
+					"z": -54.5374222
 				},
 				"rotation": {
-					"x": 308.293457,
-					"y": 66.39642,
+					"x": 308.2935,
+					"y": 66.39643,
 					"z": 217.645309
 				}
 			},
 			{
 				"path": "QuantumMoon_Body/Sector_QugsawgsawgsagsaaaaadsgsagasgwddagantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
 				"position": {
-					"x": 180.673828,
+					"x": 180.674133,
 					"y": -108.181946,
-					"z": -51.8730469
+					"z": -51.8732376
 				},
 				"rotation": {
 					"x": 350.7182,
@@ -152,9 +152,9 @@
 			{
 				"path": "QuantumMoon_Body/Sector_QugsawgsawgsagsaaaaadsgsagasgwddagwagantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
 				"position": {
-					"x": 177.4043,
+					"x": 177.404282,
 					"y": -113.323639,
-					"z": -52.38916
+					"z": -52.3890533
 				},
 				"rotation": {
 					"x": 297.4198,
@@ -165,9 +165,9 @@
 			{
 				"path": "QuantumMoon_Body/Sector_QugsawgsawgsagsaaaaadsgsagasgwddagwagwwwwwwdgantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
 				"position": {
-					"x": 172.2832,
+					"x": 172.283,
 					"y": -116.63559,
-					"z": -60.7919922
+					"z": -60.79184
 				},
 				"rotation": {
 					"x": 320.519,
@@ -178,25 +178,25 @@
 			{
 				"path": "QuantumMoon_Body/Sector_QugsawgsawgsagsaaaaadsgsagasgwddagwagwwwwwwdgdwgantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
 				"position": {
-					"x": 173.9668,
+					"x": 173.96701,
 					"y": -110.478,
-					"z": -67.4560547
+					"z": -67.4559
 				},
 				"rotation": {
-					"x": 8.504853,
-					"y": 15.3202953,
+					"x": 8.504851,
+					"y": 15.3202934,
 					"z": 233.437622
 				}
 			},
 			{
 				"path": "QuantumMoon_Body/Sector_Qugsawgsawgsagsaaaaadsgsagasgwddagwagwwwwwwdgdwgdddddwgsd-gantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
 				"position": {
-					"x": 178.03418,
+					"x": 178.033768,
 					"y": -104.520111,
-					"z": -64.47803
+					"z": -64.4779358
 				},
 				"rotation": {
-					"x": 48.67214,
+					"x": 48.672142,
 					"y": 353.25647,
 					"z": 237.0928
 				}
@@ -204,9 +204,9 @@
 			{
 				"path": "QuantumMoon_Body/Sector_Qugsawgsawgsagsaaaaadsgsagasgwddagwagwwwwwwdgdwgdddddwgsd-gwdgantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
 				"position": {
-					"x": 181.560547,
+					"x": 181.56073,
 					"y": -98.79764,
-					"z": -59.60205
+					"z": -59.60209
 				},
 				"rotation": {
 					"x": 76.39875,
@@ -217,12 +217,12 @@
 			{
 				"path": "QuantumMoon_Body/Sector_Qugsawgsawgsagsaaaaadsgsagasgwddagwagwwwwwwdgdwgdddddwgsd-gwdgdwgantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
 				"position": {
-					"x": 183.952148,
+					"x": 183.951859,
 					"y": -99.44841,
-					"z": -53.3339844
+					"z": -53.3339539
 				},
 				"rotation": {
-					"x": 49.0377464,
+					"x": 49.03774,
 					"y": 219.919083,
 					"z": 112.283783
 				}
@@ -230,9 +230,9 @@
 			{
 				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Sector_LowerVillage/Lighting_LowerVillage/OtherComponentsGroup/BlueLanterns/Props_HEA_BlueLantern",
 				"position": {
-					"x": 179.177734,
+					"x": 179.178192,
 					"y": -113.749512,
-					"z": -44.89258
+					"z": -44.89254
 				},
 				"rotation": {
 					"x": 317.6045,
@@ -243,9 +243,9 @@
 			{
 				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Sector_LowerVillage/Lighting_LowerVillage/OtherComponentsGroup/BlueLanterns/Props_HEA_BlueLantern",
 				"position": {
-					"x": 180.123047,
+					"x": 180.123444,
 					"y": -109.753448,
-					"z": -51.04297
+					"z": -51.04283
 				},
 				"rotation": {
 					"x": 19.1564274,
@@ -256,9 +256,9 @@
 			{
 				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Sector_LowerVillage/Lighting_LowerVillage/OtherComponentsGroup/BlueLanterns/Props_HEA_BlueLantern",
 				"position": {
-					"x": 178.945313,
+					"x": 178.945435,
 					"y": -108.0051,
-					"z": -56.3764648
+					"z": -56.3765945
 				},
 				"rotation": {
 					"x": 17.3266659,
@@ -271,34 +271,28 @@
 			{
 				"arcInfo": [
 					{
-						"position": {},
-						"type": "adult",
-						"variation": 7
+						"type": "adult"
 					},
+
 					{
-						"position": {
-							"x": -0.77,
-							"y": 0.9
-						},
-						"type": "adult",
-						"variation": 23,
-						"zRotation": 51.0
+						"type": "adult"
 					}
+					
 				],
 				"normal": {
-					"x": 0.8927027,
-					"y": 0.4337638,
-					"z": 0.122192144
+					"x": 0.467477053,
+					"y": -0.290777147,
+					"z": -0.834813654
 				},
 				"position": {
-					"x": 1046.86414,
-					"y": -54.46067,
-					"z": -11405.1455
+					"x": 103.707787,
+					"y": -38.82199,
+					"z": -179.066513
 				},
 				"rotation": {
-					"x": 334.293335,
-					"y": 238.913208,
-					"z": -9.47556543E-07
+					"x": 16.90449,
+					"y": 150.752136,
+					"z": -4.46165274E-07
 				},
 				"type": "wall",
 				"location": "a",

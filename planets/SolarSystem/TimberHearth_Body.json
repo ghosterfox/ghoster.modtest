@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "TimberHearth",
+	"Base": {
+		"gravityFallOff": "linear"
+	},
+	"Orbit": {},
+	"Props": {
+		"details": [
+			{
+				"path": "ConstructionYardIsland_Body/Sector_ConstructionYard/Interactables_ConstructionYard/OrbitalControl/Prefab_NOM_Whiteboard_Shared/Props_NOM_Whiteboard_Shared",
+				"position": {
+					"x": 15.1012459,
+					"y": -47.6943,
+					"z": 184.196945
+				},
+				"rotation": {
+					"x": 318.3246,
+					"y": 81.4659653,
+					"z": 109.684547
+				}
+			}
+		]
+	},
+	"ReferenceFrame": {},
+	"ShipLog": {}
+}
