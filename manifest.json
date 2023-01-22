@@ -2,8 +2,8 @@
   "filename": "NewHorizonsConfig.dll",
   "author": "ghoster",
   "name": "TestMod",
-  "uniqueName": "ghoster.modtest.[your unique mod ID]",
-  "version": "0.0.5",
+  "uniqueName": "ghoster.modtest.45687456",
+  "version": "1.0.0",
   "owmlVersion": "2.7.2",
   "dependencies": [ "xen.NewHorizons" ]
 }
