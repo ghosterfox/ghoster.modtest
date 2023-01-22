@@ -10,8 +10,8 @@
         "ambientLight": 1.4
     },
     "HeightMap": {
-        "minHeight": 5,
-        "maxHeight": 7,
+        "minHeight": 200,
+        "maxHeight": 250,
         "heightMap": "planets/assets/gamer_heightmap.png",
         "textureMap": "planets/assets/gamer_texturemap.png"
     },
