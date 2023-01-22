@@ -1,0 +1,35 @@
+{
+    "name": "Wetrock",
+    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+    "starSystem": "SolarSystem",
+    "Base": {
+      "groundSize": 100,
+      "surfaceSize": 101,
+      "surfaceGravity": 12,
+      "hasMapMarker": true
+    },
+    "Orbit": {
+      "semiMajorAxis": 1300,
+      "primaryBody": "TIMBER_HEARTH",
+      "isMoon": true,
+      "isTidallyLocked": true
+    },
+    "Atmosphere": {
+      "size": 150,
+      "fogTint": {
+        "r": 200,
+        "g": 255,
+        "b": 255,
+        "a": 255
+      },
+      "fogSize": 150,
+      "fogDensity": 0.2,
+      "hasRain": true
+    },
+    "HeightMap": {
+        "minHeight": 5,
+        "maxHeight": 7,
+        "heightMap": "planets/assets/gamer_heightmap.png",
+        "textureMap": "planets/assets/gamer_texturemap.png"
+    }
+  }

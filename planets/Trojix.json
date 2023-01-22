@@ -1,37 +1,273 @@
 {
-    "name": "gamer",
-    "$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
-    "starSystem": "SolarSystem",
-    "Base": {
-        "groundSize": 0,
-        "surfaceSize": 250,
-        "surfaceGravity": 11,
-        "hasMapMarker": true,
-        "ambientLight": 1.4
-    },
-    "HeightMap": {
-        "minHeight": 200,
-        "maxHeight": 250,
-        "heightMap": "planets/assets/gamer_heightmap.png",
-        "textureMap": "planets/assets/gamer_texturemap.png"
-    },
-    "Orbit": {
-        "semiMajorAxis": 7000,
-        "isMoon": false,
-        "primaryBody": "Sun"
-    },
-    "Atmosphere": {
-    "size": 300,
-    "fogSize": 300,
-    "fogTint": {
-        "r": 0,
-        "g": 255,
-        "b": 255,
-        "a": 255
-    },
-    "fogDensity": 0.15,
-    "hasOxygen": true
-    
-    },
-    "canShowOnTitle": true
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "gamer",
+	"Atmosphere": {
+		"fogDensity": 0.15,
+		"fogSize": 300.0,
+		"fogTint": {
+			"r": 125,
+			"g": 125,
+			"b": 125
+		},
+		"hasOxygen": true,
+		"size": 300.0
+	},
+	"Base": {
+		"ambientLight": 1.4,
+		"gravityFallOff": "linear",
+		"hasMapMarker": true,
+		"surfaceGravity": 11.0,
+		"surfaceSize": 250.0
+	},
+	"HeightMap": {
+		"heightMap": "planets/assets/gamer_heightmap.png",
+		"maxHeight": 250.0,
+		"minHeight": 200.0,
+		"textureMap": "planets/assets/gamer_texturemap.png"
+	},
+	"Orbit": {
+		"primaryBody": "Sun",
+		"semiMajorAxis": 7000.0
+	},
+	"Props": {
+		"details": [
+			{
+				"path": "TgimberHearth_Body/Sector_TH/Sector_RadioTower/RadioTower_DLC/Interactibles_RadioTower/Hornfels'GrovePivot/Prefab_HEA_Campfire",
+				"position": {
+					"x": 177.748428,
+					"y": -108.781891,
+					"z": -59.2982635
+				},
+				"rotation": {
+					"x": 358.8521,
+					"y": 191.622711,
+					"z": 119.770454
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QugantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"position": {
+					"x": 176.916046,
+					"y": -108.328857,
+					"z": -63.2351761
+				},
+				"rotation": {
+					"x": 298.32428,
+					"y": 64.66066,
+					"z": 220.873962
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QugsawgantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"position": {
+					"x": 174.990189,
+					"y": -112.4623,
+					"z": -61.5671
+				},
+				"rotation": {
+					"x": 303.530457,
+					"y": 79.03861,
+					"z": 199.8037
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QugsawgsawgantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"position": {
+					"x": 175.244232,
+					"y": -113.660019,
+					"z": -56.9448624
+				},
+				"rotation": {
+					"x": 301.759247,
+					"y": 110.07309,
+					"z": 173.263748
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QugsawgsawgsagantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"position": {
+					"x": 178.2403,
+					"y": -110.086555,
+					"z": -55.1179733
+				},
+				"rotation": {
+					"x": 304.397369,
+					"y": 142.052032,
+					"z": 155.626129
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QugsawgsawgsagsaaaaadsgsantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"position": {
+					"x": 179.205856,
+					"y": -104.877113,
+					"z": -60.9844971
+				},
+				"rotation": {
+					"x": 327.911041,
+					"y": 35.3259659,
+					"z": 245.1198
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QugsawgsawgsagsaaaaadsgsagasantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"position": {
+					"x": 181.152237,
+					"y": -103.646507,
+					"z": -57.2297134
+				},
+				"rotation": {
+					"x": 313.537872,
+					"y": 38.393425,
+					"z": 248.84584
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QugsawgsawgsagsaaaaadsgsagasgantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"position": {
+					"x": 181.585831,
+					"y": -104.789879,
+					"z": -54.5374222
+				},
+				"rotation": {
+					"x": 308.2935,
+					"y": 66.39643,
+					"z": 217.645325
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QugsawgsawgsagsaaaaadsgsagasgwddagantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"position": {
+					"x": 180.674133,
+					"y": -108.181953,
+					"z": -51.8732376
+				},
+				"rotation": {
+					"x": 350.7182,
+					"y": 197.742126,
+					"z": 117.993637
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QugsawgsawgsagsaaaaadsgsagasgwddagwagantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"position": {
+					"x": 177.404282,
+					"y": -113.323647,
+					"z": -52.3890533
+				},
+				"rotation": {
+					"x": 297.4198,
+					"y": 110.094147,
+					"z": 185.8272
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QugsawgsawgsagsaaaaadsgsagasgwddagwagwwwwwwdgantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"position": {
+					"x": 172.283,
+					"y": -116.63559,
+					"z": -60.79184
+				},
+				"rotation": {
+					"x": 320.519,
+					"y": 53.207962,
+					"z": 216.778534
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QugsawgsawgsagsaaaaadsgsagasgwddagwagwwwwwwdgdwgantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"position": {
+					"x": 173.96701,
+					"y": -110.478004,
+					"z": -67.4559
+				},
+				"rotation": {
+					"x": 8.50485,
+					"y": 15.3202925,
+					"z": 233.437622
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_Qugsawgsawgsagsaaaaadsgsagasgwddagwagwwwwwwdgdwgdddddwgsd-gantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"position": {
+					"x": 178.033768,
+					"y": -104.520111,
+					"z": -64.4779358
+				},
+				"rotation": {
+					"x": 48.672142,
+					"y": 353.25647,
+					"z": 237.092773
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_Qugsawgsawgsagsaaaaadsgsagasgwddagwagwwwwwwdgdwgdddddwgsd-gwdgantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"position": {
+					"x": 181.56073,
+					"y": -98.7976456,
+					"z": -59.60209
+				},
+				"rotation": {
+					"x": 76.39873,
+					"y": 256.9439,
+					"z": 143.7834
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_Qugsawgsawgsagsaaaaadsgsagasgwddagwagwwwwwwdgdwgdddddwgsd-gwdgdwgantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"position": {
+					"x": 183.951859,
+					"y": -99.44841,
+					"z": -53.3339539
+				},
+				"rotation": {
+					"x": 49.0377464,
+					"y": 219.919083,
+					"z": 112.283783
+				}
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Sector_LowerVillage/Lighting_LowerVillage/OtherComponentsGroup/BlueLanterns/Props_HEA_BlueLantern",
+				"position": {
+					"x": 179.178192,
+					"y": -113.749512,
+					"z": -44.89254
+				},
+				"rotation": {
+					"x": 317.6045,
+					"y": 158.3916,
+					"z": 132.879883
+				}
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Sector_LowerVillage/Lighting_LowerVillage/OtherComponentsGroup/BlueLanterns/Props_HEA_BlueLantern",
+				"position": {
+					"x": 180.123444,
+					"y": -109.753448,
+					"z": -51.0428276
+				},
+				"rotation": {
+					"x": 19.1564274,
+					"y": 6.108291,
+					"z": 240.1354
+				}
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Sector_LowerVillage/Lighting_LowerVillage/OtherComponentsGroup/BlueLanterns/Props_HEA_BlueLantern",
+				"position": {
+					"x": 178.945435,
+					"y": -108.005104,
+					"z": -56.3765945
+				},
+				"rotation": {
+					"x": 17.3266659,
+					"y": 10.7817659,
+					"z": 239.069427
+				}
+			}
+		]
+	},
+	"ReferenceFrame": {},
+	"ShipLog": {},
+	"ShockEffect": {}
 }
