@@ -270,7 +270,7 @@
 		"nomaiText": [
 			{
 				"arcInfo": [
-					
+
 				],
 				"normal": {
 					"x": 0.467477053,
@@ -288,7 +288,7 @@
 					"z": -4.46165274E-07
 				},
 				"type": "wall",
-				"location": "unspecified",
+				"location": "a",
 				"xmlFile": "planets/testtext.xml"
 			}
 		]
