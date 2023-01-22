@@ -30,6 +30,11 @@
 		"semiMajorAxis": 7000.0
 	},
 	"Props": {
+		"nomaiText": [
+			{
+				"xmlFile": "planets/testtext.xml"
+			}
+		],
 		"details": [
 			{
 				"path": "TgimberHearth_Body/Sector_TH/Sector_RadioTower/RadioTower_DLC/Interactibles_RadioTower/Hornfels'GrovePivot/Prefab_HEA_Campfire",
