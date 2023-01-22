@@ -10,27 +10,27 @@
 			{
 				"path": "ConstructionYardIsland_Body/Sector_ConstructionYard/Interactables_ConstructionYard/OrbitalControl/Prefab_NOM_Whiteboard_Shared/Props_NOM_Whiteboard_Shared",
 				"position": {
-					"x": 15.1012154,
+					"x": 15.1008263,
 					"y": -47.6943,
-					"z": 184.196945
+					"z": 184.196487
 				},
 				"rotation": {
-					"x": 318.324554,
-					"y": 81.46597,
+					"x": 318.3246,
+					"y": 81.4659653,
 					"z": 109.684563
 				}
 			},
 			{
 				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_District1/Props_HangingCity_District1/OtherComponentsGroup/Props_HangingCity_Building_10/Prefab_NOM_VaseThin",
 				"position": {
-					"x": 12.4862642,
+					"x": 12.4861422,
 					"y": -42.403,
-					"z": 185.774429
+					"z": 185.773788
 				},
 				"rotation": {
 					"x": 59.27028,
-					"y": 120.62439,
-					"z": 112.760925
+					"y": 120.624367,
+					"z": 112.760918
 				}
 			}
 		]
