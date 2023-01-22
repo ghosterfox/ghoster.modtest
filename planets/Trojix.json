@@ -270,7 +270,23 @@
 		"nomaiText": [
 			{
 				"arcInfo": [
-
+					{
+						"type": "adult",
+						"position": {
+							"x": 0,
+							"y": 0
+						},
+						"zRotation": 0
+					}
+					{
+						"type": "adult",
+						"position": {
+							"x": 0,
+							"y": 0
+						},
+						"zRotation": 0
+					}
+					
 				],
 				"normal": {
 					"x": 0.467477053,
