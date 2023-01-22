@@ -3,10 +3,10 @@
     "$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
     "starSystem": "SolarSystem",
     "HeightMap": {
-        "heightMap": "planets/assets/height_map.png",
+        "heightMap": "planets/assets/gamer_heightmap.png",
         "minHeight": 5,
         "maxHeight": 7,
-        "textureMap": "planets/assets/tex.png"
+        "textureMap": "planets/assets/gamer_texturemap.png"
     },
     "Base": {
         "groundSize": 250,
