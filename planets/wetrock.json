@@ -31,5 +31,5 @@
         "maxHeight": 7,
         "heightMap": "planets/assets/gamer_heightmap.png",
         "textureMap": "planets/assets/gamer_texturemap.png"
-    },
+    }
   }
