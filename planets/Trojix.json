@@ -1,10 +1,10 @@
 {
     "name": "gamer",
-    "$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/schema.json",
+    "$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
     "starSystem": "SolarSystem",
     "Base": {
-        "groundSize": 250,
-        "surfaceSize": 251,
+        "groundSize": 251,
+        "surfaceSize": 250,
         "surfaceGravity": 11,
         "hasMapMarker": true,
         "ambientLight": 1.4
