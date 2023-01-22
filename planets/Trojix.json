@@ -1,0 +1,36 @@
+{
+    "name": "gamer",
+    "$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
+    "starSystem": "SolarSystem",
+    "HeightMap": {
+        "heightMap": "planets/assets/height_map.png",
+        "minHeight": 5,
+        "maxHeight": 7,
+        "textureMap": "planets/assets/tex.png"
+    },
+    "Base": {
+        "groundSize": 250,
+        "surfaceSize": 251,
+        "surfaceGravity": 11,
+        "hasMapMarker": true
+    },
+    "Orbit": {
+        "semiMajorAxis": 7000,
+        "isMoon": false,
+        "primaryBody": "SUN"
+    },
+    "Atmosphere": {
+    "size": 300,
+    "fogSize": 300,
+    "fogTint": {
+        "r": 0,
+        "g": 255,
+        "b": 255,
+        "a": 255
+    },
+    "fogDensity": 0.15,
+    "hasOxygen": true
+    
+    },
+    "canShowOnTitle": true
+}
