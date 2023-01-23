@@ -7,6 +7,21 @@
         <Name>AMOG US??!?!?</Name>
         <Curiosity>SUSSY_BAKA</Curiosity>
         <IsCuriosity/>
+
+        <RumorFact>
+
+            <ID>RUMOR</ID>
+            <RumorName>RUMOR WTF</RumorName>
+            <Text>RUMA</Text>
+
+        </RumorFact>
+
+        <ExploreFact>
+
+            <ID>EXPLORAR</ID>
+            <Text>I'M GAY!</Text>
+
+        </ExploreFact>
     </Entry>
 
 </AstroObjectEntry>
