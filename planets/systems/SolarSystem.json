@@ -2,11 +2,29 @@
     "$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/star_system_schema.json",
     "entryPositions": [
         {
-            "id": "SUSSY_BAKA",
+			"id": "BB_STARTING_INFO",
+			"position": {
+				"x": 0,
+				"y": 0
+			}
+        },
+        {
+            "id": "BB_HOPES_CENTER_REC",
             "position": {
-                "x": 1200,
-                "y": -2250.0
-            }
+				"x": 176.335575688,
+				"y": -242.70509831
+			}
+
+        },
+        {
+            "id": "BB_TABLE_REC",
+            "position": {
+				"x": -176.33557568,
+				"y": -242.70509831
+			}
+
         }
+
+		
     ]
 }
