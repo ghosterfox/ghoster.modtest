@@ -26,5 +26,9 @@
         }
 
 		
-    ]
+    ],
+
+    "initialReveal": [
+        "BB_STARTING_INFO",
+      ]
 }
