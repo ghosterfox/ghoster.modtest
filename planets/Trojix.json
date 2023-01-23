@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
-	"name": "gamer",
+	"name": "Gamer Planet",
 	"Atmosphere": {
 		"fogDensity": 0.15,
 		"fogSize": 300.0,
